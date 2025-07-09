@@ -1,0 +1,9 @@
+{
+    "valid_users": [
+        {"username": "testuser1", "email": "user1@example.com", "password": "SecurePass123!"},
+        {"username": "testuser2", "email": "user2@example.com", "password": "AnotherPass456@"}
+    ],
+    "invalid_users": [
+        {"username": "existinguser", "email": "existing@example.com", "password": "Pass123!"}
+    ]
+}
