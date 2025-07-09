@@ -13,3 +13,4 @@ class Config:
     LOGIN_USERNAME_LOCATOR = ("id", "username")
     LOGIN_PASSWORD_LOCATOR = ("id", "password")
     LOGIN_BUTTON_LOCATOR = ("id", "loginButton")
+    REG_USERNAME_LOCATOR = ("id", "reg_username")

@@ -4,6 +4,6 @@
         {"username": "testuser2", "email": "user2@example.com", "password": "AnotherPass456@"}
     ],
     "invalid_users": [
-        {"username": "existinguser", "email": "existing@example.com", "password": "Pass123!"}
+        {"username": "existinguser", "email": "existing@example.com", "password": "Pass123!" }
     ]
 }
